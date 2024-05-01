@@ -1,13 +1,13 @@
 //
-//  SearchViewController.swift
+//  CreateProfileViewController.swift
 //  Final Project Stellar
 //
-//  Created by Michael Tapia on 3/20/24.
+//  Created by Michael Tapia on 5/1/24.
 //
 
 import UIKit
 
-class SearchViewController: UITabBarController {
+class CreateProfileViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

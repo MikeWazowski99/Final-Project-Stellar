@@ -1,17 +1,19 @@
 //
-//  NotificationsViewController.swift
+//  ProfileViewController.swift
 //  Final Project Stellar
 //
-//  Created by Michael Tapia on 3/20/24.
+//  Created by Michael Tapia on 3/31/24.
 //
 
 import UIKit
 
-class NotificationsViewController: UITabBarController {
+class ProfileViewController: UIViewController {
 
+    @IBOutlet weak var forgotPassword: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         // Do any additional setup after loading the view.
     }
     

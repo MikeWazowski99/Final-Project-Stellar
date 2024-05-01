@@ -1,5 +1,5 @@
 //
-//  HomeViewController.swift
+//  TabViewController.swift
 //  Final Project Stellar
 //
 //  Created by Michael Tapia on 3/20/24.
@@ -7,12 +7,12 @@
 
 import UIKit
 
-class HomeViewController: UITabBarController {
+class TabViewController: UITabBarController {
 
+    @IBOutlet weak var StellarTxt: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
     
 

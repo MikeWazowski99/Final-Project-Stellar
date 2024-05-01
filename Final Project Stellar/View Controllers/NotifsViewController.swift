@@ -1,13 +1,13 @@
 //
-//  TabViewController.swift
+//  NotifsViewController.swift
 //  Final Project Stellar
 //
-//  Created by Michael Tapia on 3/20/24.
+//  Created by Michael Tapia on 3/31/24.
 //
 
 import UIKit
 
-class TabViewController: UITabBarController {
+class NotifsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -1,13 +1,13 @@
 //
-//  ProfileViewController.swift
+//  MiniPopUp.swift
 //  Final Project Stellar
 //
-//  Created by Michael Tapia on 3/20/24.
+//  Created by Michael Tapia on 4/21/24.
 //
 
 import UIKit
 
-class ProfileViewController: UITabBarController {
+class MiniPopUp: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
